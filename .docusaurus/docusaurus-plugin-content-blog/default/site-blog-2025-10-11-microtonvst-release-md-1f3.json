@@ -1,0 +1,31 @@
+{
+  "permalink": "/blog/microton-vst-release",
+  "source": "@site/blog/2025-10-11-microtonvst-release.md",
+  "title": "MicrotonVST for Windows and macOS",
+  "description": "We’re excited to announce the release of MicrotonVST for Windows and macOS!",
+  "date": "2025-10-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.52,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Euclidean Instruments",
+      "title": "Development team",
+      "url": "https://euclidean-instruments.com",
+      "imageURL": "img/littlelogo.png",
+      "key": "euclid"
+    }
+  ],
+  "frontMatter": {
+    "slug": "microton-vst-release",
+    "title": "MicrotonVST for Windows and macOS",
+    "authors": [
+      "euclid"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "PolySampler launch!",
+    "permalink": "/blog/polysampler-launch"
+  }
+}

@@ -23,7 +23,10 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-#appstore {
-  margin-left: 20px;
-  margin-right: 20px;
+#purchaseLinks {
+  display: inline-flex;
+  align-items: center;      /* Vertically center items */
+  justify-content: center;  /* Horizontally center items (optional) */
+  gap: 1rem;                /* Space between the button and image */
+  vertical-align: middle;   /* Align the whole div inline with neighbors */
 }

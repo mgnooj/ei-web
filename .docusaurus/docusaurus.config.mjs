@@ -13,6 +13,12 @@ export default {
   "projectName": "monochord-web",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
+  "scripts": [
+    {
+      "src": "https://gumroad.com/js/gumroad.js",
+      "async": true
+    }
+  ],
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -53,6 +59,11 @@ export default {
         {
           "to": "/microton",
           "label": "Microton",
+          "position": "left"
+        },
+        {
+          "to": "/microtonvst",
+          "label": "MicrotonVST",
           "position": "left"
         },
         {
@@ -345,7 +356,6 @@ export default {
   "customFields": {},
   "plugins": [],
   "themes": [],
-  "scripts": [],
   "headTags": [],
   "stylesheets": [],
   "clientModules": [],

@@ -9,8 +9,7 @@ function HomepageHeader() {
   const logo = require('@site/static/img/logo_dark.png').default;
   const banner = require('@site/static/img/banner_dark.gif').default;
   const tagline = require('@site/static/img/tagline_dark.png').default;
-  const appstore = require('@site/static/img/appstore.png').default;
-  const appstoreFM = require('@site/static/img/appstoreFM.png').default;
+  const appstore = require('@site/static/img/appstore_generic.png').default;
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="col">
@@ -20,9 +19,9 @@ function HomepageHeader() {
           <img src={tagline} id="tagline" width="80%"></img>
         </div>
         <div className="container">
-          <div>
-            <a href="https://apple.co/3A1akCW"><img src={appstore} id="appstore" width="30%"></img></a>
-            <a href="https://apple.co/3YKix8a"><img src={appstoreFM} id="appstore" width="30%"></img></a>
+          <div id="purchaseLinks">
+            <a class="gumroad-button" href="https://euclideaninstruments.gumroad.com/l/microtonvst">Buy on</a>
+            <a href="https://apps.apple.com/us/developer/euclidean-instruments-llc/id1721465976"><img src={appstore} id="appstore"></img></a>
           </div>
         </div>
       </div>

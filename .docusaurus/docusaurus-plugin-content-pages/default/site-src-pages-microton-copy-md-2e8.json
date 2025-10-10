@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/microton%20copy",
+  "source": "@site/src/pages/microton copy.md",
+  "title": "Microton",
+  "description": "Microton interface",
+  "frontMatter": {
+    "title": "Microton"
+  },
+  "unlisted": false
+}

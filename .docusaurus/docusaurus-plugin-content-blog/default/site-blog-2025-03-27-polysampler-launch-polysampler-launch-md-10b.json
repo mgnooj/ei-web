@@ -24,6 +24,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "MicrotonVST for Windows and macOS",
+    "permalink": "/blog/microton-vst-release"
+  },
   "nextItem": {
     "title": "An Introduction to the Microton tuning system",
     "permalink": "/blog/an-introduction-to-the-microton-tuning-system"

@@ -2,6 +2,11 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "MicrotonVST for Windows and macOS",
+      "permalink": "/blog/microton-vst-release",
+      "unlisted": false
+    },
+    {
       "title": "PolySampler launch!",
       "permalink": "/blog/polysampler-launch",
       "unlisted": false

@@ -20,6 +20,13 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  
+  scripts: [
+    {
+      src: 'https://gumroad.com/js/gumroad.js',
+      async: true,
+    },
+  ],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -61,6 +68,7 @@ const config: Config = {
       },
       items: [
         {to: '/microton', label: 'Microton', position: 'left'},
+        {to: '/microtonvst', label: 'MicrotonVST', position: 'left'},
         {to: '/deltaz', label: 'Delta-Z', position: 'left'},
         {to: '/polysampler', label: 'PolySampler', position: 'left'},
         {

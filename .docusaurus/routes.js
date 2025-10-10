@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '312'),
+    component: ComponentCreator('/blog', 'bd1'),
     exact: true
   },
   {
@@ -20,6 +20,11 @@ export default [
   {
     path: '/blog/hello-world',
     component: ComponentCreator('/blog/hello-world', '582'),
+    exact: true
+  },
+  {
+    path: '/blog/microton-vst-release',
+    component: ComponentCreator('/blog/microton-vst-release', 'f84'),
     exact: true
   },
   {
@@ -45,6 +50,11 @@ export default [
   {
     path: '/microton',
     component: ComponentCreator('/microton', '6c5'),
+    exact: true
+  },
+  {
+    path: '/microtonvst',
+    component: ComponentCreator('/microtonvst', '4a4'),
     exact: true
   },
   {
