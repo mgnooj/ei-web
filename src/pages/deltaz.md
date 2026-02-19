@@ -16,8 +16,8 @@ Delta-Z features three distinct, combinable sound modules:
 
 Each module also contains overdrive, high- and low-pass filters, and an ADSR envelope.
 
-Delta-Z is available on the Apple App Store for OSX and iPad. The OSX version includes an Audio Unit (AUv3) component -- take all of your new sounds to your favorite DAW.
+Delta-Z is available on the Apple App Store for macOS and iPad, and as a standalone app + VST bundle on Gumroad for Windows and macOS. The macOS versions includes a bundled Audio Unit (AUv3) component -- take all of your new sounds to your favorite DAW. 
 
-Get Delta-Z on the Apple App Store here:
+__Get Delta-Z here:__
 
-[![Delta-Z on the Apple App Store](black.svg)](https://apps.apple.com/us/app/delta-z/id6737138294)
+[![Delta-Z on the Apple App Store](black.svg)](https://apps.apple.com/us/app/delta-z/id6737138294) [![Delta-Z on Gumroad](gum.png)](https://euclideaninstruments.gumroad.com/l/deltazx)

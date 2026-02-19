@@ -58,17 +58,12 @@ export default {
       "items": [
         {
           "to": "/microton",
-          "label": "Microton",
-          "position": "left"
-        },
-        {
-          "to": "/microtonvst",
-          "label": "MicrotonVST",
+          "label": "Microton Microtonal Synth",
           "position": "left"
         },
         {
           "to": "/deltaz",
-          "label": "Delta-Z",
+          "label": "Delta-Z Chiptune Synth",
           "position": "left"
         },
         {
@@ -95,33 +90,48 @@ export default {
       "links": [
         {
           "title": " ",
+          "items": []
+        },
+        {
+          "title": " ",
           "items": [
             {
               "label": "Home",
               "to": "/"
-            }
-          ]
-        },
-        {
-          "title": " ",
-          "items": [
+            },
             {
               "label": "Docs",
               "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": " ",
-          "items": [
+            },
             {
               "label": "Contact",
               "to": "/contact"
             }
           ]
+        },
+        {
+          "title": " ",
+          "items": []
+        },
+        {
+          "title": " ",
+          "items": [
+            {
+              "label": "Apple App Store",
+              "href": "https://apps.apple.com/us/developer/euclidean-instruments-llc/id1721465976"
+            },
+            {
+              "label": "Gumroad",
+              "href": "https://euclideaninstruments.gumroad.com"
+            }
+          ]
+        },
+        {
+          "title": " ",
+          "items": []
         }
       ],
-      "copyright": "Copyright © 2025 Euclidean Instruments, LLC"
+      "copyright": "Copyright © 2026 Euclidean Instruments, LLC"
     },
     "prism": {
       "theme": {

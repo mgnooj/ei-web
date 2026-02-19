@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'mgnooj', // Usually your GitHub org/user name.
-  projectName: 'monochord-web', // Usually your repo name.
+  projectName: 'ei-web', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -67,9 +67,8 @@ const config: Config = {
         src: 'img/littlelogo.png',
       },
       items: [
-        {to: '/microton', label: 'Microton', position: 'left'},
-        {to: '/microtonvst', label: 'MicrotonVST', position: 'left'},
-        {to: '/deltaz', label: 'Delta-Z', position: 'left'},
+        {to: '/microton', label: 'Microton Microtonal Synth', position: 'left'},
+        {to: '/deltaz', label: 'Delta-Z Chiptune Synth', position: 'left'},
         {to: '/polysampler', label: 'PolySampler', position: 'left'},
         {
           type: 'docSidebar',
@@ -85,48 +84,46 @@ const config: Config = {
       links: [
         {
           title: ' ',
+          items: []
+        },
+        {
+          title: ' ',
           items: [
             {
               label: 'Home',
               to: '/',
             },
-          ],
-        },
-        {
-          title: ' ',
-          items: [
             {
               label: 'Docs',
               to: '/docs/intro',
             },
-          ],
-        },
-        {
-          title: ' ',
-          items: [
             {
               label: 'Contact',
               to: '/contact',
             },
           ],
         },
-        //{
-        //  title: ' ',
-        //  items: [
-        //    {
-        //      label: 'Instagram',
-        //      href: 'https://instagram.com',
-        //    },
-        //    {
-        //      label: 'YouTube',
-        //      href: 'https://youtube.com',
-        //    },
-        //    {
-        //      label: 'Soundcloud',
-        //      href: 'https://soundcloud.com',
-        //    },
-        //  ],
-        //},
+        {
+          title: ' ',
+          items: []
+        },
+        {
+          title: ' ',
+          items: [
+            {
+              label: 'Apple App Store',
+              href: 'https://apps.apple.com/us/developer/euclidean-instruments-llc/id1721465976',
+            },
+            {
+              label: 'Gumroad',
+              href: 'https://euclideaninstruments.gumroad.com',
+            },
+          ],
+        },
+        {
+          title: ' ',
+          items: []
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Euclidean Instruments, LLC`,
     },
