@@ -26,6 +26,6 @@ The Microton FM’s sound engine produces the harmonically rich tones inspired b
 
 Microton is available exclusively on the Apple App Store for macOS and iPad. The desktop version comes bundled with an Audio Unit v3 plugin for use in your favorite DAW. All of your saved patches and tunings will be shared system-wide — so custom tunings made in the desktop app will be available in the Audio Unit, and vice versa.
 
-__Get Microton FM on the Apple App Store here:__
+__Get Microton FM here:__
 
-[![Microton FM on the Apple App Store](black.svg)](https://apple.co/3YKix8a)
+[![Microton FM on the Apple App Store](black.svg)](https://apple.co/3YKix8a) [![Microton FM on Gumroad](gum.png)](https://euclideaninstruments.gumroad.com/l/microtonfmvst)
